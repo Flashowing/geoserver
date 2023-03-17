@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gs-web-sec-ldap" />
+        <module name="gs-kml" />
+        <module name="gs-sec-ldap" />
+        <module name="gs-ows" />
+        <module name="gs-restconfig-wmts" />
+        <module name="gs-web-sec-core" />
+        <module name="gs-wfs" />
+        <module name="gs-wms" />
+        <module name="gs-web-demo" />
+        <module name="gs-web-wfs" />
+        <module name="gs-web-core" />
+        <module name="gs-sec-jdbc" />
+        <module name="gs-web-rest" />
+        <module name="gs-rest" />
+        <module name="gs-restconfig-wfs" />
+        <module name="gs-web-gwc" />
+        <module name="gs-restconfig-wcs" />
+        <module name="gs-gwc-rest" />
+        <module name="gs-wcs" />
+        <module name="gs-security-tests" />
+        <module name="gs-web-sec-jdbc" />
+        <module name="gs-restconfig" />
+        <module name="gs-platform" />
+        <module name="gs-web-wcs" />
+        <module name="gs-restconfig-wms" />
+        <module name="gs-main" />
+        <module name="gs-web-wms" />
+        <module name="gs-wcs2_0" />
+        <module name="gs-wcs1_1" />
+        <module name="gs-wcs1_0" />
+        <module name="gs-web-app" />
+        <module name="gs-gwc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>
